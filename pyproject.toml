@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "Reminder Bot"
+version = "0.9.0"
+description = "Made solely for personal use. Add task and it will be shown in the channel. Beware, all other messages will be deleted."
+authors = ["Ehsanur Rahman Rhythm <ehsanur.rahman.rhythm@g.bracu.ac.bd>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = "^1.0.1"
+replit = "^3.0.0"
+discord-py-slash-command = "^1.1.2"
+discordslashcommands = "^1.0.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
