@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Reminder Bot"
+name = "ReminderBot"
 version = "0.9.0"
 description = "Made solely for personal use. Add task and it will be shown in the channel. Beware, all other messages will be deleted."
 authors = ["Ehsanur Rahman Rhythm <ehsanur.rahman.rhythm@g.bracu.ac.bd>"]
